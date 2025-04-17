@@ -1,0 +1,14 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
+
+Future<void> sendNotificationToClass({
+  required String title,
+  required String message,
+  required String className,
+}) async {
+  await FirebaseFirestore.instance.collection('notifications').add({
+    'title': title,
+    'message': message,
+    'class': className,
+    'timestamp': FieldValue.serverTimestamp(),
+  });
+}

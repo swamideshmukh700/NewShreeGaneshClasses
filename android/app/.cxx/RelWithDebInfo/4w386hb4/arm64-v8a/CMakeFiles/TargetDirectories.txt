@@ -1,0 +1,2 @@
+C:/Users/shree it hub/Project/shri_ganesh_classes/android/app/.cxx/RelWithDebInfo/4w386hb4/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/shree it hub/Project/shri_ganesh_classes/android/app/.cxx/RelWithDebInfo/4w386hb4/arm64-v8a/CMakeFiles/rebuild_cache.dir

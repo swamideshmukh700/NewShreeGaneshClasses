@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "shreeapp-41b65",
+    "firebase functions:log": "shreeapp-41b65"
+  },
+  "targets": {},
+  "etags": {}
+}

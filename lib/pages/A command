@@ -1,0 +1,9 @@
+flutter upgrade --force
+
+
+flutter clean
+
+
+
+
+flutter pub get

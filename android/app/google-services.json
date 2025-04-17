@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267300961273",
+    "project_id": "shreeapp-41b65",
+    "storage_bucket": "shreeapp-41b65.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267300961273:android:5d65724175ca8318b95b28",
+        "android_client_info": {
+          "package_name": "com.example.shri_ganesh_classes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa6D2JxItosuAVZNJoWRSwEIGEL9MWWSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

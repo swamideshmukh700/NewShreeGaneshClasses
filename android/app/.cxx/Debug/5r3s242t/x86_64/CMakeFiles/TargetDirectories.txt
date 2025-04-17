@@ -1,0 +1,2 @@
+C:/Users/shree it hub/Project/shri_ganesh_classes/android/app/.cxx/Debug/5r3s242t/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/shree it hub/Project/shri_ganesh_classes/android/app/.cxx/Debug/5r3s242t/x86_64/CMakeFiles/rebuild_cache.dir
